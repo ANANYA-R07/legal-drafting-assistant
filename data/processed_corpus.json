@@ -1,0 +1,640 @@
+{
+  "categories": [
+    "Confidentiality",
+    "Payment",
+    "Termination",
+    "Liability",
+    "Indemnification"
+  ],
+  "clauses": {
+    "Confidentiality": [
+      "The Receiving Party shall hold all Confidential Information in strict confidence.",
+      "The Receiving Party shall not disclose Confidential Information to any third party.",
+      "Confidential Information shall be used solely for the purpose of evaluating the Transaction.",
+      "The obligations of confidentiality shall survive termination of this Agreement.",
+      "Each party agrees to protect the other party's Confidential Information with the same degree of care it uses for its own confidential information.",
+      "The Receiving Party shall restrict access to Confidential Information to its employees who have a need to know.",
+      "Confidential Information does not include information that is publicly known through no fault of the Receiving Party.",
+      "Upon request, the Receiving Party shall return or destroy all Confidential Information.",
+      "The Disclosing Party retains all right, title, and interest in and to the Confidential Information.",
+      "No license or right to use Confidential Information is granted except as expressly set forth herein.",
+      "All written confidential materials shall be clearly marked as proprietary and confidential.",
+      "The Receiving Party shall immediately notify the Disclosing Party upon discovering any unauthorized disclosure.",
+      "Recipient agrees to maintain trade secrets in confidence indefinitely until lawful public disclosure.",
+      "Nothing herein requires the disclosure of any proprietary technical data or trade secrets.",
+      "The parties agree that monetary damages may be inadequate to remedy a breach of confidentiality.",
+      "Each party shall take all reasonable precautions to prevent disclosure of confidential records.",
+      "Confidentiality obligations under this Section shall remain in force for five years following disclosure.",
+      "Neither party shall disclose the existence or terms of this Agreement without prior written approval.",
+      "The Receiving Party may disclose confidential information pursuant to a valid judicial or governmental order.",
+      "Employees accessing confidential data shall be bound by confidentiality agreements no less restrictive than this."
+    ],
+    "Payment": [
+      "The Buyer shall pay the Purchase Price in accordance with the payment schedule.",
+      "All payments shall be made in United States Dollars.",
+      "Late payments shall bear interest at the rate of one and a half percent per month.",
+      "The Seller shall invoice the Buyer upon delivery of the Goods.",
+      "Payment is due within thirty days of receipt of invoice.",
+      "The Buyer may withhold payment only for disputed amounts in good faith.",
+      "All amounts payable are exclusive of applicable taxes.",
+      "The Seller shall bear all costs of packaging and shipping.",
+      "Partial payments shall be applied first to outstanding interest then to principal.",
+      "The Buyer shall provide a letter of credit if requested by the Seller.",
+      "Invoices shall clearly itemize services rendered and associated disbursements.",
+      "The Client agrees to pay invoices within forty-five days of presentation.",
+      "Any undisputed overdue balance shall accrue a late finance charge until paid in full.",
+      "Payment shall be transmitted by electronic funds transfer or wire transfer to the designated bank account.",
+      "The Company reserves the right to suspend services if payment is overdue by more than thirty days.",
+      "All fees quoted are net of any withholding taxes or bank transaction charges.",
+      "The Contractor shall submit monthly billing statements detailing completed milestones.",
+      "Reimbursement of pre-approved travel expenses shall be paid within fifteen business days.",
+      "The deposit paid upon execution of this Agreement is non-refundable.",
+      "Upon completion of the project milestones, final payment shall be disbursed promptly."
+    ],
+    "Termination": [
+      "Either party may terminate this Agreement upon thirty days written notice.",
+      "This Agreement may be terminated immediately for material breach.",
+      "Upon termination, all licenses granted herein shall immediately cease.",
+      "The parties shall cooperate to effect an orderly transition upon termination.",
+      "Termination shall not relieve either party of obligations accrued prior to termination.",
+      "This Agreement shall terminate automatically upon the insolvency of either party.",
+      "Either party may terminate for convenience with sixty days prior written notice.",
+      "Upon termination, each party shall return the other party's property.",
+      "Surviving provisions shall remain in effect after termination.",
+      "Force majeure events may excuse performance and permit termination.",
+      "In the event of insolvency or bankruptcy filing, this contract shall terminate forthwith.",
+      "Failure to cure a default within twenty days of notice shall warrant immediate termination.",
+      "Either party may terminate if the other party ceases ordinary business operations.",
+      "Upon expiration of the initial term, this Agreement may renew or terminate by mutual written agreement.",
+      "Termination shall be without prejudice to any other remedies available in law or equity.",
+      "Any provision intended by its nature to survive termination shall continue in full force.",
+      "The Company may terminate the service agreement upon repeated non-performance by the vendor.",
+      "Notice of termination must be delivered by certified mail or registered courier.",
+      "Upon termination of employment, all company credentials and equipment shall be returned.",
+      "Early termination by the Client without cause shall require payment of the agreed cancellation fee."
+    ],
+    "Liability": [
+      "Neither party shall be liable for indirect or consequential damages.",
+      "The total liability of either party shall not exceed the fees paid under this Agreement.",
+      "The limitation of liability shall not apply to breaches of confidentiality.",
+      "Each party shall indemnify the other for third party claims arising from its negligence.",
+      "The Seller warrants that the Goods conform to the specifications.",
+      "The Buyer's exclusive remedy for defective Goods is repair or replacement.",
+      "Liability for fraud or willful misconduct is not limited.",
+      "The Seller disclaims all implied warranties including merchantability and fitness.",
+      "No party shall be liable for force majeure events beyond its reasonable control.",
+      "The parties acknowledge that the liability limitations are reasonable.",
+      "Under no circumstances shall either party be liable for loss of profits or lost revenues.",
+      "The cumulative aggregate liability of the service provider shall be capped at the total contract value.",
+      "Neither party assumes any liability for delays caused by governmental embargoes or strikes.",
+      "The supplier disclaims all express or implied warranties not expressly stated herein.",
+      "Nothing in this agreement shall exclude or limit liability for death or personal injury resulting from negligence.",
+      "The client assumes full responsibility and liability for its use of the deliverable materials.",
+      "In no event shall damages exceed the amount actually received by the contractor in the preceding twelve months.",
+      "The limitation of liability provisions allocate the business risks between the contracting parties.",
+      "Except for willful misconduct, neither party shall be subject to punitive or exemplary damages.",
+      "Both parties agree that these limitations of liability are essential terms of this commercial transaction."
+    ],
+    "Indemnification": [
+      "The Seller shall indemnify the Buyer against all claims arising from infringement.",
+      "The Buyer shall indemnify the Seller for claims arising from Buyer's specifications.",
+      "Each party shall indemnify the other for breaches of representations and warranties.",
+      "The indemnifying party shall have the right to control the defense of any claim.",
+      "The indemnified party shall provide prompt notice of any claim.",
+      "Indemnification obligations shall survive termination of this Agreement.",
+      "The indemnifying party shall reimburse all reasonable costs and expenses.",
+      "No settlement shall be made without the consent of the indemnified party.",
+      "Indemnification is the sole remedy for intellectual property claims.",
+      "The parties shall cooperate in the defense of any third party claim.",
+      "The Contractor agrees to defend and hold harmless the Company against all third party liabilities.",
+      "The Client shall indemnify the consultant against losses resulting from gross negligence of the Client.",
+      "The indemnifying party shall pay all reasonable legal fees incurred in defending an indemnified action.",
+      "Indemnification hereunder covers losses, liabilities, judgments, damages, and defense expenditures.",
+      "The licensee agrees to hold harmless the licensor from claims relating to unauthorized software usage.",
+      "Notice of an indemnification claim must be provided in writing within ten business days.",
+      "The vendor shall indemnify and hold harmless the purchaser against patent or trademark infringement claims.",
+      "Failure to give prompt notice shall not relieve indemnification obligations unless materially prejudiced.",
+      "Each party agrees to hold harmless the officers and directors of the other party.",
+      "The indemnifying party may not settle any lawsuit without obtaining a complete release for the indemnified party."
+    ]
+  },
+  "sentences": [
+    "The Receiving Party shall hold all Confidential Information in strict confidence.",
+    "The Receiving Party shall not disclose Confidential Information to any third party.",
+    "Confidential Information shall be used solely for the purpose of evaluating the Transaction.",
+    "The obligations of confidentiality shall survive termination of this Agreement.",
+    "Each party agrees to protect the other party's Confidential Information with the same degree of care it uses for its own confidential information.",
+    "The Receiving Party shall restrict access to Confidential Information to its employees who have a need to know.",
+    "Confidential Information does not include information that is publicly known through no fault of the Receiving Party.",
+    "Upon request, the Receiving Party shall return or destroy all Confidential Information.",
+    "The Disclosing Party retains all right, title, and interest in and to the Confidential Information.",
+    "No license or right to use Confidential Information is granted except as expressly set forth herein.",
+    "All written confidential materials shall be clearly marked as proprietary and confidential.",
+    "The Receiving Party shall immediately notify the Disclosing Party upon discovering any unauthorized disclosure.",
+    "Recipient agrees to maintain trade secrets in confidence indefinitely until lawful public disclosure.",
+    "Nothing herein requires the disclosure of any proprietary technical data or trade secrets.",
+    "The parties agree that monetary damages may be inadequate to remedy a breach of confidentiality.",
+    "Each party shall take all reasonable precautions to prevent disclosure of confidential records.",
+    "Confidentiality obligations under this Section shall remain in force for five years following disclosure.",
+    "Neither party shall disclose the existence or terms of this Agreement without prior written approval.",
+    "The Receiving Party may disclose confidential information pursuant to a valid judicial or governmental order.",
+    "Employees accessing confidential data shall be bound by confidentiality agreements no less restrictive than this.",
+    "The Buyer shall pay the Purchase Price in accordance with the payment schedule.",
+    "All payments shall be made in United States Dollars.",
+    "Late payments shall bear interest at the rate of one and a half percent per month.",
+    "The Seller shall invoice the Buyer upon delivery of the Goods.",
+    "Payment is due within thirty days of receipt of invoice.",
+    "The Buyer may withhold payment only for disputed amounts in good faith.",
+    "All amounts payable are exclusive of applicable taxes.",
+    "The Seller shall bear all costs of packaging and shipping.",
+    "Partial payments shall be applied first to outstanding interest then to principal.",
+    "The Buyer shall provide a letter of credit if requested by the Seller.",
+    "Invoices shall clearly itemize services rendered and associated disbursements.",
+    "The Client agrees to pay invoices within forty-five days of presentation.",
+    "Any undisputed overdue balance shall accrue a late finance charge until paid in full.",
+    "Payment shall be transmitted by electronic funds transfer or wire transfer to the designated bank account.",
+    "The Company reserves the right to suspend services if payment is overdue by more than thirty days.",
+    "All fees quoted are net of any withholding taxes or bank transaction charges.",
+    "The Contractor shall submit monthly billing statements detailing completed milestones.",
+    "Reimbursement of pre-approved travel expenses shall be paid within fifteen business days.",
+    "The deposit paid upon execution of this Agreement is non-refundable.",
+    "Upon completion of the project milestones, final payment shall be disbursed promptly.",
+    "Either party may terminate this Agreement upon thirty days written notice.",
+    "This Agreement may be terminated immediately for material breach.",
+    "Upon termination, all licenses granted herein shall immediately cease.",
+    "The parties shall cooperate to effect an orderly transition upon termination.",
+    "Termination shall not relieve either party of obligations accrued prior to termination.",
+    "This Agreement shall terminate automatically upon the insolvency of either party.",
+    "Either party may terminate for convenience with sixty days prior written notice.",
+    "Upon termination, each party shall return the other party's property.",
+    "Surviving provisions shall remain in effect after termination.",
+    "Force majeure events may excuse performance and permit termination.",
+    "In the event of insolvency or bankruptcy filing, this contract shall terminate forthwith.",
+    "Failure to cure a default within twenty days of notice shall warrant immediate termination.",
+    "Either party may terminate if the other party ceases ordinary business operations.",
+    "Upon expiration of the initial term, this Agreement may renew or terminate by mutual written agreement.",
+    "Termination shall be without prejudice to any other remedies available in law or equity.",
+    "Any provision intended by its nature to survive termination shall continue in full force.",
+    "The Company may terminate the service agreement upon repeated non-performance by the vendor.",
+    "Notice of termination must be delivered by certified mail or registered courier.",
+    "Upon termination of employment, all company credentials and equipment shall be returned.",
+    "Early termination by the Client without cause shall require payment of the agreed cancellation fee.",
+    "Neither party shall be liable for indirect or consequential damages.",
+    "The total liability of either party shall not exceed the fees paid under this Agreement.",
+    "The limitation of liability shall not apply to breaches of confidentiality.",
+    "Each party shall indemnify the other for third party claims arising from its negligence.",
+    "The Seller warrants that the Goods conform to the specifications.",
+    "The Buyer's exclusive remedy for defective Goods is repair or replacement.",
+    "Liability for fraud or willful misconduct is not limited.",
+    "The Seller disclaims all implied warranties including merchantability and fitness.",
+    "No party shall be liable for force majeure events beyond its reasonable control.",
+    "The parties acknowledge that the liability limitations are reasonable.",
+    "Under no circumstances shall either party be liable for loss of profits or lost revenues.",
+    "The cumulative aggregate liability of the service provider shall be capped at the total contract value.",
+    "Neither party assumes any liability for delays caused by governmental embargoes or strikes.",
+    "The supplier disclaims all express or implied warranties not expressly stated herein.",
+    "Nothing in this agreement shall exclude or limit liability for death or personal injury resulting from negligence.",
+    "The client assumes full responsibility and liability for its use of the deliverable materials.",
+    "In no event shall damages exceed the amount actually received by the contractor in the preceding twelve months.",
+    "The limitation of liability provisions allocate the business risks between the contracting parties.",
+    "Except for willful misconduct, neither party shall be subject to punitive or exemplary damages.",
+    "Both parties agree that these limitations of liability are essential terms of this commercial transaction.",
+    "The Seller shall indemnify the Buyer against all claims arising from infringement.",
+    "The Buyer shall indemnify the Seller for claims arising from Buyer's specifications.",
+    "Each party shall indemnify the other for breaches of representations and warranties.",
+    "The indemnifying party shall have the right to control the defense of any claim.",
+    "The indemnified party shall provide prompt notice of any claim.",
+    "Indemnification obligations shall survive termination of this Agreement.",
+    "The indemnifying party shall reimburse all reasonable costs and expenses.",
+    "No settlement shall be made without the consent of the indemnified party.",
+    "Indemnification is the sole remedy for intellectual property claims.",
+    "The parties shall cooperate in the defense of any third party claim.",
+    "The Contractor agrees to defend and hold harmless the Company against all third party liabilities.",
+    "The Client shall indemnify the consultant against losses resulting from gross negligence of the Client.",
+    "The indemnifying party shall pay all reasonable legal fees incurred in defending an indemnified action.",
+    "Indemnification hereunder covers losses, liabilities, judgments, damages, and defense expenditures.",
+    "The licensee agrees to hold harmless the licensor from claims relating to unauthorized software usage.",
+    "Notice of an indemnification claim must be provided in writing within ten business days.",
+    "The vendor shall indemnify and hold harmless the purchaser against patent or trademark infringement claims.",
+    "Failure to give prompt notice shall not relieve indemnification obligations unless materially prejudiced.",
+    "Each party agrees to hold harmless the officers and directors of the other party.",
+    "The indemnifying party may not settle any lawsuit without obtaining a complete release for the indemnified party."
+  ],
+  "train": [
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Nothing herein requires the disclosure of any proprietary technical data or trade secrets."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The limitation of liability provisions allocate the business risks between the contracting parties."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The obligations of confidentiality shall survive termination of this Agreement."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Notice of termination must be delivered by certified mail or registered courier."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Disclosing Party retains all right, title, and interest in and to the Confidential Information."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Either party may terminate if the other party ceases ordinary business operations."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The parties acknowledge that the liability limitations are reasonable."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Termination shall be without prejudice to any other remedies available in law or equity."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The Seller disclaims all implied warranties including merchantability and fitness."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Any undisputed overdue balance shall accrue a late finance charge until paid in full."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The licensee agrees to hold harmless the licensor from claims relating to unauthorized software usage."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "All amounts payable are exclusive of applicable taxes."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "All fees quoted are net of any withholding taxes or bank transaction charges."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Each party shall take all reasonable precautions to prevent disclosure of confidential records."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Upon request, the Receiving Party shall return or destroy all Confidential Information."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Confidentiality obligations under this Section shall remain in force for five years following disclosure."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "The parties shall cooperate to effect an orderly transition upon termination."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Neither party shall disclose the existence or terms of this Agreement without prior written approval."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Late payments shall bear interest at the rate of one and a half percent per month."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The Buyer shall indemnify the Seller for claims arising from Buyer's specifications."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Buyer may withhold payment only for disputed amounts in good faith."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Each party shall indemnify the other for third party claims arising from its negligence."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Buyer shall provide a letter of credit if requested by the Seller."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Both parties agree that these limitations of liability are essential terms of this commercial transaction."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Upon termination of employment, all company credentials and equipment shall be returned."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Upon termination, each party shall return the other party's property."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The total liability of either party shall not exceed the fees paid under this Agreement."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Each party agrees to hold harmless the officers and directors of the other party."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Buyer shall pay the Purchase Price in accordance with the payment schedule."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Any provision intended by its nature to survive termination shall continue in full force."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Receiving Party shall hold all Confidential Information in strict confidence."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The Buyer's exclusive remedy for defective Goods is repair or replacement."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The cumulative aggregate liability of the service provider shall be capped at the total contract value."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Indemnification obligations shall survive termination of this Agreement."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Surviving provisions shall remain in effect after termination."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The deposit paid upon execution of this Agreement is non-refundable."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Indemnification is the sole remedy for intellectual property claims."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "In the event of insolvency or bankruptcy filing, this contract shall terminate forthwith."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Except for willful misconduct, neither party shall be subject to punitive or exemplary damages."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "No license or right to use Confidential Information is granted except as expressly set forth herein."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Termination shall not relieve either party of obligations accrued prior to termination."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Invoices shall clearly itemize services rendered and associated disbursements."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The Seller shall indemnify the Buyer against all claims arising from infringement."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Upon completion of the project milestones, final payment shall be disbursed promptly."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The indemnifying party shall reimburse all reasonable costs and expenses."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Each party shall indemnify the other for breaches of representations and warranties."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Payment is due within thirty days of receipt of invoice."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Confidential Information does not include information that is publicly known through no fault of the Receiving Party."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Either party may terminate for convenience with sixty days prior written notice."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "No settlement shall be made without the consent of the indemnified party."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "This Agreement may be terminated immediately for material breach."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The vendor shall indemnify and hold harmless the purchaser against patent or trademark infringement claims."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Confidential Information shall be used solely for the purpose of evaluating the Transaction."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Failure to give prompt notice shall not relieve indemnification obligations unless materially prejudiced."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Receiving Party shall immediately notify the Disclosing Party upon discovering any unauthorized disclosure."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "All written confidential materials shall be clearly marked as proprietary and confidential."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Liability for fraud or willful misconduct is not limited."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Receiving Party may disclose confidential information pursuant to a valid judicial or governmental order."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Neither party assumes any liability for delays caused by governmental embargoes or strikes."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Recipient agrees to maintain trade secrets in confidence indefinitely until lawful public disclosure."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The indemnifying party shall have the right to control the defense of any claim."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Upon expiration of the initial term, this Agreement may renew or terminate by mutual written agreement."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Receiving Party shall not disclose Confidential Information to any third party."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Payment shall be transmitted by electronic funds transfer or wire transfer to the designated bank account."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Failure to cure a default within twenty days of notice shall warrant immediate termination."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The client assumes full responsibility and liability for its use of the deliverable materials."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The Seller warrants that the Goods conform to the specifications."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The Contractor agrees to defend and hold harmless the Company against all third party liabilities."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Notice of an indemnification claim must be provided in writing within ten business days."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Reimbursement of pre-approved travel expenses shall be paid within fifteen business days."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Contractor shall submit monthly billing statements detailing completed milestones."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "This Agreement shall terminate automatically upon the insolvency of either party."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "All payments shall be made in United States Dollars."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The supplier disclaims all express or implied warranties not expressly stated herein."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "In no event shall damages exceed the amount actually received by the contractor in the preceding twelve months."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "The limitation of liability shall not apply to breaches of confidentiality."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The indemnifying party may not settle any lawsuit without obtaining a complete release for the indemnified party."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "The Company may terminate the service agreement upon repeated non-performance by the vendor."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The indemnified party shall provide prompt notice of any claim."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Seller shall bear all costs of packaging and shipping."
+    }
+  ],
+  "test": [
+    {
+      "clause_type": "Liability",
+      "sentence": "Nothing in this agreement shall exclude or limit liability for death or personal injury resulting from negligence."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Seller shall invoice the Buyer upon delivery of the Goods."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Employees accessing confidential data shall be bound by confidentiality agreements no less restrictive than this."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "Each party agrees to protect the other party's Confidential Information with the same degree of care it uses for its own confidential information."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "Partial payments shall be applied first to outstanding interest then to principal."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Company reserves the right to suspend services if payment is overdue by more than thirty days."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Upon termination, all licenses granted herein shall immediately cease."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Either party may terminate this Agreement upon thirty days written notice."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The parties shall cooperate in the defense of any third party claim."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Early termination by the Client without cause shall require payment of the agreed cancellation fee."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The indemnifying party shall pay all reasonable legal fees incurred in defending an indemnified action."
+    },
+    {
+      "clause_type": "Termination",
+      "sentence": "Force majeure events may excuse performance and permit termination."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Under no circumstances shall either party be liable for loss of profits or lost revenues."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The Receiving Party shall restrict access to Confidential Information to its employees who have a need to know."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "Neither party shall be liable for indirect or consequential damages."
+    },
+    {
+      "clause_type": "Liability",
+      "sentence": "No party shall be liable for force majeure events beyond its reasonable control."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "The Client shall indemnify the consultant against losses resulting from gross negligence of the Client."
+    },
+    {
+      "clause_type": "Confidentiality",
+      "sentence": "The parties agree that monetary damages may be inadequate to remedy a breach of confidentiality."
+    },
+    {
+      "clause_type": "Indemnification",
+      "sentence": "Indemnification hereunder covers losses, liabilities, judgments, damages, and defense expenditures."
+    },
+    {
+      "clause_type": "Payment",
+      "sentence": "The Client agrees to pay invoices within forty-five days of presentation."
+    }
+  ],
+  "metadata": {
+    "total_sentences": 100,
+    "train_count": 80,
+    "test_count": 20,
+    "categories_count": 5,
+    "per_category_counts": {
+      "Confidentiality": 20,
+      "Payment": 20,
+      "Termination": 20,
+      "Liability": 20,
+      "Indemnification": 20
+    }
+  }
+}

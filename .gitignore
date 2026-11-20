@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.vscode/
+backup_original/
+models/
+data/*
+!data/legal_corpus.csv
+!data/processed_corpus.json
+!data/evaluation_report.txt
+!data/evaluation_results.json
